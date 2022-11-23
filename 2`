@@ -1,44 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: C:\Users\gatos\miniconda3
-
-  added / updated specs:
-    - mistune
-    - nbconvert
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    mistune-0.8.4              |py39hb82d6ee_1005          55 KB  conda-forge
-    nbconvert-6.4.5            |   py39hcbf5309_0         562 KB  conda-forge
-    pandoc-2.19.2              |       h57928b3_1        18.8 MB  conda-forge
-    ------------------------------------------------------------
-                                           Total:        19.4 MB
-
-The following NEW packages will be INSTALLED:
-
-  pandoc             conda-forge/win-64::pandoc-2.19.2-h57928b3_1 None
-
-The following packages will be UPDATED:
-
-  ca-certificates    anaconda::ca-certificates-2022.4.26-h~ --> conda-forge::ca-certificates-2022.9.24-h5b45459_0 None
-  certifi            anaconda/win-64::certifi-2022.6.15-py~ --> conda-forge/noarch::certifi-2022.9.24-pyhd8ed1ab_0 None
-  mistune            anaconda::mistune-0.8.4-py39h2bbff1b_~ --> conda-forge::mistune-0.8.4-py39hb82d6ee_1005 None
-
-The following packages will be SUPERSEDED by a higher-priority channel:
-
-  nbconvert          pkgs/main::nbconvert-6.5.4-py39haa955~ --> conda-forge::nbconvert-6.4.5-py39hcbf5309_0 None
-
-
-Proceed ([y]/n)? 
-
-Downloading and Extracting Packages
-pandoc-2.19.2        | 18.8 MB   |            |   0% pandoc-2.19.2        | 18.8 MB   |            |   0% pandoc-2.19.2        | 18.8 MB   | 2          |   3% pandoc-2.19.2        | 18.8 MB   | 8          |   8% pandoc-2.19.2        | 18.8 MB   | #4         |  14% pandoc-2.19.2        | 18.8 MB   | ##1        |  21% pandoc-2.19.2        | 18.8 MB   | ###        |  31% pandoc-2.19.2        | 18.8 MB   | ####       |  40% pandoc-2.19.2        | 18.8 MB   | #####      |  50% pandoc-2.19.2        | 18.8 MB   | #####9     |  60% pandoc-2.19.2        | 18.8 MB   | ######8    |  69% pandoc-2.19.2        | 18.8 MB   | ########1  |  81% pandoc-2.19.2        | 18.8 MB   | #########  |  91% pandoc-2.19.2        | 18.8 MB   | ########## | 100% 
-nbconvert-6.4.5      | 562 KB    |            |   0% nbconvert-6.4.5      | 562 KB    |            |   0% 
-mistune-0.8.4        | 55 KB     |            |   0% mistune-0.8.4        | 55 KB     | ##9        |  29% mistune-0.8.4        | 55 KB     | ########## | 100% mistune-0.8.4        | 55 KB     | ########## | 100% 
-Deseja finalizar o arquivo em lotes (S/N)? 
