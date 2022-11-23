@@ -1,4 +1,5 @@
 instrument_classifier/instruments/*
 .ipynb_checkpoints
+instrument_classifier/.ipynb_checkpoints
 .env
 
